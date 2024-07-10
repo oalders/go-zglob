@@ -1,3 +1,3 @@
-module github.com/mattn/go-zglob
+module github.com/oalders/go-zglob
 
 go 1.12
